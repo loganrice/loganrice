@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://loganrice.github.io/loganrice/blog/2015/04/07/switching-from-sublime-text-to-vim/</loc>
+    <lastmod>2015-04-07T12:35:02-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://loganrice.github.io/loganrice/blog/archives/</loc>
   </url>
   <url>
     <loc>http://loganrice.github.io/loganrice/</loc>
+  </url>
+  <url>
+    <loc>http://loganrice.github.io/loganrice/blog/categories/vim/</loc>
+  </url>
+  <url>
+    <loc>http://loganrice.github.io/loganrice/blog/categories/sublime-text/</loc>
+  </url>
+  <url>
+    <loc>http://loganrice.github.io/loganrice/blog/categories/ruby-on-rails/</loc>
   </url>
 </urlset>

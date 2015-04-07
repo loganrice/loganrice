@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Modern Web Development | Ruby on Rails | React | Vim]]></title>
-  <link href="http://loganrice.github.io/loganrice/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Sublime Text | Modern Web Development | Ruby on Rails | React | Vim]]></title>
+  <link href="http://loganrice.github.io/loganrice/blog/categories/sublime-text/atom.xml" rel="self"/>
   <link href="http://loganrice.github.io/loganrice/"/>
   <updated>2015-04-07T12:47:13-07:00</updated>
   <id>http://loganrice.github.io/loganrice/</id>
